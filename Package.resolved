@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/antitypical/Result.git",
         "state": {
           "branch": null,
-          "revision": "7477584259bfce2560a19e06ad9f71db441fff11",
-          "version": "3.2.4"
+          "revision": "2ca499ba456795616fbc471561ff1d963e6ae160",
+          "version": "4.1.0"
         }
       },
       {
@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/thoughtbot/Runes.git",
         "state": {
           "branch": null,
-          "revision": "e1bb1f7a589fe9172dc3410203f8b62373ea92a4",
-          "version": "4.1.0"
+          "revision": "9eb9cd44ea777cdfc2a7e2df07d4c34f3b46e6e5",
+          "version": "4.2.1"
         }
       }
     ]
